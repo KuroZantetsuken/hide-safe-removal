@@ -1,0 +1,12 @@
+# Windhawk and compiler build artifacts
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+*.exp
+
+# Logs and editor settings
+*.log
+.vs/
+.vscode/
